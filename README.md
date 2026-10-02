@@ -1,4 +1,4 @@
-# 🔎 Automatisation  – Make × API × Google Sheets
+# 🔎 Automatisation – Make × API × Google Sheets
 
 > Un scénario no-code qui collecte chaque matin les nouvelles offres d'emploi Data autour de Nantes et les centralise, sans doublon, dans un Google Sheet qui me sert aussi de tableau de suivi de candidatures.
 
@@ -26,7 +26,7 @@ En recherche active d'un poste de **Data Analyst** dans la région nantaise, je 
 flowchart LR
     A["🌐 <b>Adzuna API</b><br/>offres au format JSON"]
     B["⚙️ <b>Make</b><br/>requête · itération<br/>dédoublonnage"]
-    C["📊 <b>Google Sheets</b><br/>Job_Search_Automation"]
+    C["📊 <b>Google Sheets</b><br/>suivi des offres"]
     A -->|chaque jour à 9h15| B -->|nouvelles offres| C
 ```
 
