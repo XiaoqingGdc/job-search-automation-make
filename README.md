@@ -10,13 +10,15 @@
 
 ## 📌 Contexte
 
-En recherche active d'un poste de **Data Analyst** dans la région nantaise, je consultais chaque jour plusieurs sites d'emploi à la main : beaucoup de temps perdu, des offres vues plusieurs fois, et aucune vision d'ensemble de mes candidatures.
+Le suivi du marché de l'emploi **Data** en région nantaise repose souvent sur une veille manuelle : consultation quotidienne de plusieurs plateformes, offres en double d'un site à l'autre, et informations dispersées sans vision consolidée.
 
-**Objectif :** automatiser la collecte des offres pour :
-- ne manquer aucune nouvelle offre ;
-- éviter les doublons ;
-- suivre mes candidatures au même endroit ;
-- disposer d'un jeu de données exploitable pour analyser le marché.
+Ce projet propose un **pipeline automatisé de collecte et de structuration d'offres d'emploi**, pensé comme un cas d'usage concret d'intégration de données (API, automatisation no-code, stockage tabulaire).
+
+**Objectifs :**
+- collecter automatiquement les nouvelles offres publiées ;
+- dédoublonner les annonces provenant de sources multiples ;
+- centraliser le suivi des offres et de leur statut dans un référentiel unique ;
+- constituer un jeu de données exploitable pour analyser le marché (volumes, compétences demandées, types de contrat, localisation).
 
 ---
 
