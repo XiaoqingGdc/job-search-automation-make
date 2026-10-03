@@ -94,16 +94,6 @@ Le fichier combine des colonnes **remplies automatiquement** par Make et des col
 
 ---
 
-## 📁 Contenu du dépôt
-
-```
-├── README.md
-├── blueprint.json        # Export du scénario Make (identifiants supprimés)
-└── images/
-    ├── make_scenario.png
-    └── google_sheet.png
-```
-
 ## 🛠️ Mode d'emploi – réutiliser le scénario
 
 Vous cherchez un emploi ? Vous pouvez installer cette veille automatique pour vos propres critères en une vingtaine de minutes.
@@ -135,8 +125,20 @@ Vous cherchez un emploi ? Vous pouvez installer cette veille automatique pour vo
 
 ---
 
+## 📁 Contenu du dépôt
 
-## <img src="images/avatar.png" width="26" alt="" /> Autrice
+```
+├── README.md
+├── blueprint.json            # Export du scénario Make (identifiants supprimés)
+├── modele_google_sheet.csv   # Modèle de Google Sheet (en-têtes de colonnes)
+└── images/
+    ├── make_scenario.png
+    └── google_sheet.png
+```
 
-** Xiaoqing ZHOU GRANDCOING** – 
+---
+
+## <img src="images/avatar.png" width="26" alt="" /> Auteure
+
+**Xiaoqing ZHOU GRANDCOING** – Data Analyst
 [Portfolio](https://xiaoqinggdc.github.io) · [LinkedIn](https://www.linkedin.com/in/xiaoqingzhougrandcoing) · [GitHub](https://github.com/XiaoqingGdc)
